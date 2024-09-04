@@ -1,0 +1,57 @@
+﻿  Game.cpp
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(49): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(86): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(98): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(98): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(178): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(196): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(272): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(272): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(283): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(283): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(208): warning C4244: 'initializing': conversion from 'const _Ty1' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+  c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(168): note: see reference to function template instantiation 'std::pair<int,int>::pair<double,double,0>(const std::pair<double,double> &) noexcept' being compiled
+  c:\users\mo3mo3\desktop\c++projects\directx_projects\experiments_engine\engine\game.cpp(168): note: see reference to function template instantiation 'std::pair<int,int>::pair<double,double,0>(const std::pair<double,double> &) noexcept' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(208): warning C4244: 'initializing': conversion from 'const _Ty2' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  Engine.vcxproj -> C:\Users\mo3mo3\Desktop\C++projects\DirectX_Projects\experiments_engine\x64\Debug\Engine.exe
