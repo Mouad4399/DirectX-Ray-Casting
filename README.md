@@ -1,7 +1,7 @@
 # DirectX-Particle-Simulation-Engine
 A small C++ project! 🎮
 
-#Demo
+# Demo
 
 
 https://github.com/user-attachments/assets/c4eb841b-247a-4908-869c-82ebe789fa5d
